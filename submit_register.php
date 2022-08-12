@@ -5,7 +5,7 @@
 
 require("bdd.php");
 
-if (!empty($_POST['lastname']) AND !empty($_POST['firstname']) AND !empty($_POST['username']) AND !empty($_POST['password']) AND !empty($_POST['password']) AND !empty($_POST['question']) AND !empty($_POST['answer']))
+if (!empty($_POST['lastname']) AND !empty($_POST['firstname']) AND !empty($_POST['username']) AND !empty($_POST['password']) AND !empty($_POST['passwordConfirm']) AND !empty($_POST['question']) AND !empty($_POST['answer']))
 {
 
 // Ecriture de la requête

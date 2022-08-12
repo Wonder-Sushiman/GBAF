@@ -1,4 +1,4 @@
-<footer>
+		<footer>
 	    	<div >	    		
 	            <p>
 	            <a href="mentions.php">Mentions légales</a> |
