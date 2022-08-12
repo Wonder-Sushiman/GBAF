@@ -34,5 +34,5 @@ else
     header('Location: connexion.php?err=champs');
 }        
 
-
+?>
 
